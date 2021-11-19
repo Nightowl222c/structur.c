@@ -32,8 +32,7 @@ void zeigeTabelle(struct buch_t[], int);
 int main(void) {
 struct buch_t tabelle[MAX_BUECHER]; // Array mit Datensaetzen (array of struct)
 int wahl; // Menuewahl des Users
-int anzahl; // Anzahl Datensaetze, 0 = File nicht
-vorhanden (oder leer)
+int anzahl; // Anzahl Datensaetze, 0 = File nicht vorhanden (oder leer)
 char filename[] = "buecher.txt"; // DateiName
 
 do {
