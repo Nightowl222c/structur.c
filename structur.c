@@ -16,8 +16,8 @@ Daten ausgeben
 // Konstanten
 #define STRINGLAENGE_NAMEN 31
 #define MAX_BUECHER 10
-// DatenStruktur
-fuer einen Datensatz
+
+// DatenStruktur fuer einen Datensatz
 struct buch_t {
   char name[STRINGLAENGE_NAMEN];
   double preis;
