@@ -4,12 +4,9 @@ date 15.10.2016
 author Pius Senn
 StrukturArray
 sortieren, Beispielloesung
-Daten
-aus File lesen
-Daten
-nach Namen oder Preis sortieren
-Daten
-ausgeben
+Daten aus File lesen
+Daten nach Namen oder Preis sortieren
+Daten ausgeben
 *****/
 
 #define _CRT_SECURE_NO_WARNINGS
